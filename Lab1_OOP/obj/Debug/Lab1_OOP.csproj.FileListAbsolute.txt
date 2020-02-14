@@ -1,0 +1,6 @@
+D:\Lab1_OOP\Lab1_OOP\bin\Debug\Lab1_OOP.exe.config
+D:\Lab1_OOP\Lab1_OOP\bin\Debug\Lab1_OOP.exe
+D:\Lab1_OOP\Lab1_OOP\bin\Debug\Lab1_OOP.pdb
+D:\Lab1_OOP\Lab1_OOP\obj\Debug\Lab1_OOP.csprojAssemblyReference.cache
+D:\Lab1_OOP\Lab1_OOP\obj\Debug\Lab1_OOP.exe
+D:\Lab1_OOP\Lab1_OOP\obj\Debug\Lab1_OOP.pdb
